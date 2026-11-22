@@ -49,3 +49,7 @@ export async function listCities(): Promise<string[]> {
   const routes = await read("routes");
   return [...new Set(routes.flatMap((r) => [r.origin, r.destination]))].sort();
 }
+
+export function isFuture(iso: string): boolean {
+  return new Date(iso).getTime() > Date.now();
+}

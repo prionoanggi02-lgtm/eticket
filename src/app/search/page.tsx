@@ -1,6 +1,6 @@
 import Link from "next/link";
 import { SearchForm } from "@/components/SearchForm";
-import { expireStaleBookings, listCities, listScheduleDetails } from "@/lib/data";
+import { expireStaleBookings, isFuture, listCities, listScheduleDetails } from "@/lib/data";
 import { durationLabel, fmtDate, fmtTime, rupiah, transportLabel, ymdJakarta } from "@/lib/format";
 import { searchSchema } from "@/lib/validations";
 
@@ -22,14 +22,13 @@ export default async function SearchPage({ searchParams }: Props) {
   }
 
   const { origin, destination, date, pax } = parsed.data;
-  const now = Date.now();
   const results = (await listScheduleDetails())
     .filter(
       (s) =>
         s.route.origin === origin &&
         s.route.destination === destination &&
         ymdJakarta(s.departureAt) === date &&
-        new Date(s.departureAt).getTime() > now,
+        isFuture(s.departureAt),
     )
     .sort((a, b) => a.departureAt.localeCompare(b.departureAt));
 

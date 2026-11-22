@@ -1,7 +1,7 @@
 import { deleteSchedule } from "@/actions/admin";
 import { ConfirmButton } from "@/components/ui";
 import { read } from "@/lib/db";
-import { listScheduleDetails } from "@/lib/data";
+import { isFuture, listScheduleDetails } from "@/lib/data";
 import { fmtDateTime, rupiah, transportLabel } from "@/lib/format";
 import { requireSession } from "@/lib/session";
 import { ScheduleForm } from "./ScheduleForm";
@@ -17,9 +17,8 @@ export default async function SchedulesPage({ searchParams }: Props) {
     read("operators"),
     read("bookings"),
   ]);
-  const now = Date.now();
   const list = schedules
-    .filter((s) => show === "all" || new Date(s.departureAt).getTime() > now)
+    .filter((s) => show === "all" || isFuture(s.departureAt))
     .sort((a, b) => a.departureAt.localeCompare(b.departureAt));
   const hasActive = (id: string) => bookings.some((b) => b.scheduleId === id && (b.status === "PENDING" || b.status === "PAID"));
 
