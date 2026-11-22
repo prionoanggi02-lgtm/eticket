@@ -1,0 +1,1682 @@
+[
+  {
+    "id": "s_0001",
+    "routeId": "r_jkt_dps",
+    "operatorId": "op_ga",
+    "departureAt": "2026-11-21T23:00:00.000Z",
+    "arrivalAt": "2026-11-22T00:50:00.000Z",
+    "price": 1450000,
+    "totalSeats": 60,
+    "bookedSeats": 0
+  },
+  {
+    "id": "s_0002",
+    "routeId": "r_jkt_dps",
+    "operatorId": "op_jt",
+    "departureAt": "2026-11-22T02:30:00.000Z",
+    "arrivalAt": "2026-11-22T04:20:00.000Z",
+    "price": 980000,
+    "totalSeats": 80,
+    "bookedSeats": 7
+  },
+  {
+    "id": "s_0003",
+    "routeId": "r_jkt_dps",
+    "operatorId": "op_ga",
+    "departureAt": "2026-11-22T08:15:00.000Z",
+    "arrivalAt": "2026-11-22T10:05:00.000Z",
+    "price": 1550000,
+    "totalSeats": 60,
+    "bookedSeats": 2
+  },
+  {
+    "id": "s_0004",
+    "routeId": "r_dps_jkt",
+    "operatorId": "op_ga",
+    "departureAt": "2026-11-22T01:00:00.000Z",
+    "arrivalAt": "2026-11-22T02:50:00.000Z",
+    "price": 1400000,
+    "totalSeats": 60,
+    "bookedSeats": 9
+  },
+  {
+    "id": "s_0005",
+    "routeId": "r_dps_jkt",
+    "operatorId": "op_jt",
+    "departureAt": "2026-11-22T11:00:00.000Z",
+    "arrivalAt": "2026-11-22T12:50:00.000Z",
+    "price": 950000,
+    "totalSeats": 80,
+    "bookedSeats": 4
+  },
+  {
+    "id": "s_0006",
+    "routeId": "r_jkt_sby",
+    "operatorId": "op_jt",
+    "departureAt": "2026-11-22T00:00:00.000Z",
+    "arrivalAt": "2026-11-22T01:30:00.000Z",
+    "price": 850000,
+    "totalSeats": 80,
+    "bookedSeats": 11
+  },
+  {
+    "id": "s_0007",
+    "routeId": "r_jkt_sby",
+    "operatorId": "op_ga",
+    "departureAt": "2026-11-22T06:00:00.000Z",
+    "arrivalAt": "2026-11-22T07:30:00.000Z",
+    "price": 1250000,
+    "totalSeats": 60,
+    "bookedSeats": 6
+  },
+  {
+    "id": "s_0008",
+    "routeId": "r_jkt_yog",
+    "operatorId": "op_kai",
+    "departureAt": "2026-11-22T01:00:00.000Z",
+    "arrivalAt": "2026-11-22T08:00:00.000Z",
+    "price": 450000,
+    "totalSeats": 50,
+    "bookedSeats": 1
+  },
+  {
+    "id": "s_0009",
+    "routeId": "r_jkt_yog",
+    "operatorId": "op_kai",
+    "departureAt": "2026-11-22T13:00:00.000Z",
+    "arrivalAt": "2026-11-22T20:00:00.000Z",
+    "price": 380000,
+    "totalSeats": 50,
+    "bookedSeats": 8
+  },
+  {
+    "id": "s_0010",
+    "routeId": "r_jkt_bdg",
+    "operatorId": "op_sj",
+    "departureAt": "2026-11-21T23:00:00.000Z",
+    "arrivalAt": "2026-11-22T02:00:00.000Z",
+    "price": 120000,
+    "totalSeats": 40,
+    "bookedSeats": 3
+  },
+  {
+    "id": "s_0011",
+    "routeId": "r_jkt_bdg",
+    "operatorId": "op_sj",
+    "departureAt": "2026-11-22T07:00:00.000Z",
+    "arrivalAt": "2026-11-22T10:00:00.000Z",
+    "price": 120000,
+    "totalSeats": 40,
+    "bookedSeats": 10
+  },
+  {
+    "id": "s_0012",
+    "routeId": "r_sby_mks",
+    "operatorId": "op_pelni",
+    "departureAt": "2026-11-22T03:00:00.000Z",
+    "arrivalAt": "2026-11-23T03:00:00.000Z",
+    "price": 650000,
+    "totalSeats": 200,
+    "bookedSeats": 5
+  },
+  {
+    "id": "s_0013",
+    "routeId": "r_jkt_dps",
+    "operatorId": "op_ga",
+    "departureAt": "2026-11-22T23:00:00.000Z",
+    "arrivalAt": "2026-11-23T00:50:00.000Z",
+    "price": 1450000,
+    "totalSeats": 60,
+    "bookedSeats": 5
+  },
+  {
+    "id": "s_0014",
+    "routeId": "r_jkt_dps",
+    "operatorId": "op_jt",
+    "departureAt": "2026-11-23T02:30:00.000Z",
+    "arrivalAt": "2026-11-23T04:20:00.000Z",
+    "price": 980000,
+    "totalSeats": 80,
+    "bookedSeats": 10
+  },
+  {
+    "id": "s_0015",
+    "routeId": "r_jkt_dps",
+    "operatorId": "op_ga",
+    "departureAt": "2026-11-23T08:15:00.000Z",
+    "arrivalAt": "2026-11-23T10:05:00.000Z",
+    "price": 1550000,
+    "totalSeats": 60,
+    "bookedSeats": 5
+  },
+  {
+    "id": "s_0016",
+    "routeId": "r_dps_jkt",
+    "operatorId": "op_ga",
+    "departureAt": "2026-11-23T01:00:00.000Z",
+    "arrivalAt": "2026-11-23T02:50:00.000Z",
+    "price": 1400000,
+    "totalSeats": 60,
+    "bookedSeats": 0
+  },
+  {
+    "id": "s_0017",
+    "routeId": "r_dps_jkt",
+    "operatorId": "op_jt",
+    "departureAt": "2026-11-23T11:00:00.000Z",
+    "arrivalAt": "2026-11-23T12:50:00.000Z",
+    "price": 950000,
+    "totalSeats": 80,
+    "bookedSeats": 7
+  },
+  {
+    "id": "s_0018",
+    "routeId": "r_jkt_sby",
+    "operatorId": "op_jt",
+    "departureAt": "2026-11-23T00:00:00.000Z",
+    "arrivalAt": "2026-11-23T01:30:00.000Z",
+    "price": 850000,
+    "totalSeats": 80,
+    "bookedSeats": 2
+  },
+  {
+    "id": "s_0019",
+    "routeId": "r_jkt_sby",
+    "operatorId": "op_ga",
+    "departureAt": "2026-11-23T06:00:00.000Z",
+    "arrivalAt": "2026-11-23T07:30:00.000Z",
+    "price": 1250000,
+    "totalSeats": 60,
+    "bookedSeats": 9
+  },
+  {
+    "id": "s_0020",
+    "routeId": "r_jkt_yog",
+    "operatorId": "op_kai",
+    "departureAt": "2026-11-23T01:00:00.000Z",
+    "arrivalAt": "2026-11-23T08:00:00.000Z",
+    "price": 450000,
+    "totalSeats": 50,
+    "bookedSeats": 4
+  },
+  {
+    "id": "s_0021",
+    "routeId": "r_jkt_yog",
+    "operatorId": "op_kai",
+    "departureAt": "2026-11-23T13:00:00.000Z",
+    "arrivalAt": "2026-11-23T20:00:00.000Z",
+    "price": 380000,
+    "totalSeats": 50,
+    "bookedSeats": 11
+  },
+  {
+    "id": "s_0022",
+    "routeId": "r_jkt_bdg",
+    "operatorId": "op_sj",
+    "departureAt": "2026-11-22T23:00:00.000Z",
+    "arrivalAt": "2026-11-23T02:00:00.000Z",
+    "price": 120000,
+    "totalSeats": 40,
+    "bookedSeats": 6
+  },
+  {
+    "id": "s_0023",
+    "routeId": "r_jkt_bdg",
+    "operatorId": "op_sj",
+    "departureAt": "2026-11-23T07:00:00.000Z",
+    "arrivalAt": "2026-11-23T10:00:00.000Z",
+    "price": 120000,
+    "totalSeats": 40,
+    "bookedSeats": 1
+  },
+  {
+    "id": "s_0024",
+    "routeId": "r_sby_mks",
+    "operatorId": "op_pelni",
+    "departureAt": "2026-11-23T03:00:00.000Z",
+    "arrivalAt": "2026-11-24T03:00:00.000Z",
+    "price": 650000,
+    "totalSeats": 200,
+    "bookedSeats": 8
+  },
+  {
+    "id": "s_0025",
+    "routeId": "r_jkt_dps",
+    "operatorId": "op_ga",
+    "departureAt": "2026-11-23T23:00:00.000Z",
+    "arrivalAt": "2026-11-24T00:50:00.000Z",
+    "price": 1450000,
+    "totalSeats": 60,
+    "bookedSeats": 6
+  },
+  {
+    "id": "s_0026",
+    "routeId": "r_jkt_dps",
+    "operatorId": "op_jt",
+    "departureAt": "2026-11-24T02:30:00.000Z",
+    "arrivalAt": "2026-11-24T04:20:00.000Z",
+    "price": 980000,
+    "totalSeats": 80,
+    "bookedSeats": 1
+  },
+  {
+    "id": "s_0027",
+    "routeId": "r_jkt_dps",
+    "operatorId": "op_ga",
+    "departureAt": "2026-11-24T08:15:00.000Z",
+    "arrivalAt": "2026-11-24T10:05:00.000Z",
+    "price": 1550000,
+    "totalSeats": 60,
+    "bookedSeats": 8
+  },
+  {
+    "id": "s_0028",
+    "routeId": "r_dps_jkt",
+    "operatorId": "op_ga",
+    "departureAt": "2026-11-24T01:00:00.000Z",
+    "arrivalAt": "2026-11-24T02:50:00.000Z",
+    "price": 1400000,
+    "totalSeats": 60,
+    "bookedSeats": 3
+  },
+  {
+    "id": "s_0029",
+    "routeId": "r_dps_jkt",
+    "operatorId": "op_jt",
+    "departureAt": "2026-11-24T11:00:00.000Z",
+    "arrivalAt": "2026-11-24T12:50:00.000Z",
+    "price": 950000,
+    "totalSeats": 80,
+    "bookedSeats": 10
+  },
+  {
+    "id": "s_0030",
+    "routeId": "r_jkt_sby",
+    "operatorId": "op_jt",
+    "departureAt": "2026-11-24T00:00:00.000Z",
+    "arrivalAt": "2026-11-24T01:30:00.000Z",
+    "price": 850000,
+    "totalSeats": 80,
+    "bookedSeats": 5
+  },
+  {
+    "id": "s_0031",
+    "routeId": "r_jkt_sby",
+    "operatorId": "op_ga",
+    "departureAt": "2026-11-24T06:00:00.000Z",
+    "arrivalAt": "2026-11-24T07:30:00.000Z",
+    "price": 1250000,
+    "totalSeats": 60,
+    "bookedSeats": 0
+  },
+  {
+    "id": "s_0032",
+    "routeId": "r_jkt_yog",
+    "operatorId": "op_kai",
+    "departureAt": "2026-11-24T01:00:00.000Z",
+    "arrivalAt": "2026-11-24T08:00:00.000Z",
+    "price": 450000,
+    "totalSeats": 50,
+    "bookedSeats": 7
+  },
+  {
+    "id": "s_0033",
+    "routeId": "r_jkt_yog",
+    "operatorId": "op_kai",
+    "departureAt": "2026-11-24T13:00:00.000Z",
+    "arrivalAt": "2026-11-24T20:00:00.000Z",
+    "price": 380000,
+    "totalSeats": 50,
+    "bookedSeats": 2
+  },
+  {
+    "id": "s_0034",
+    "routeId": "r_jkt_bdg",
+    "operatorId": "op_sj",
+    "departureAt": "2026-11-23T23:00:00.000Z",
+    "arrivalAt": "2026-11-24T02:00:00.000Z",
+    "price": 120000,
+    "totalSeats": 40,
+    "bookedSeats": 9
+  },
+  {
+    "id": "s_0035",
+    "routeId": "r_jkt_bdg",
+    "operatorId": "op_sj",
+    "departureAt": "2026-11-24T07:00:00.000Z",
+    "arrivalAt": "2026-11-24T10:00:00.000Z",
+    "price": 120000,
+    "totalSeats": 40,
+    "bookedSeats": 4
+  },
+  {
+    "id": "s_0036",
+    "routeId": "r_sby_mks",
+    "operatorId": "op_pelni",
+    "departureAt": "2026-11-24T03:00:00.000Z",
+    "arrivalAt": "2026-11-25T03:00:00.000Z",
+    "price": 650000,
+    "totalSeats": 200,
+    "bookedSeats": 11
+  },
+  {
+    "id": "s_0037",
+    "routeId": "r_jkt_dps",
+    "operatorId": "op_ga",
+    "departureAt": "2026-11-24T23:00:00.000Z",
+    "arrivalAt": "2026-11-25T00:50:00.000Z",
+    "price": 1450000,
+    "totalSeats": 60,
+    "bookedSeats": 9
+  },
+  {
+    "id": "s_0038",
+    "routeId": "r_jkt_dps",
+    "operatorId": "op_jt",
+    "departureAt": "2026-11-25T02:30:00.000Z",
+    "arrivalAt": "2026-11-25T04:20:00.000Z",
+    "price": 980000,
+    "totalSeats": 80,
+    "bookedSeats": 4
+  },
+  {
+    "id": "s_0039",
+    "routeId": "r_jkt_dps",
+    "operatorId": "op_ga",
+    "departureAt": "2026-11-25T08:15:00.000Z",
+    "arrivalAt": "2026-11-25T10:05:00.000Z",
+    "price": 1550000,
+    "totalSeats": 60,
+    "bookedSeats": 11
+  },
+  {
+    "id": "s_0040",
+    "routeId": "r_dps_jkt",
+    "operatorId": "op_ga",
+    "departureAt": "2026-11-25T01:00:00.000Z",
+    "arrivalAt": "2026-11-25T02:50:00.000Z",
+    "price": 1400000,
+    "totalSeats": 60,
+    "bookedSeats": 6
+  },
+  {
+    "id": "s_0041",
+    "routeId": "r_dps_jkt",
+    "operatorId": "op_jt",
+    "departureAt": "2026-11-25T11:00:00.000Z",
+    "arrivalAt": "2026-11-25T12:50:00.000Z",
+    "price": 950000,
+    "totalSeats": 80,
+    "bookedSeats": 1
+  },
+  {
+    "id": "s_0042",
+    "routeId": "r_jkt_sby",
+    "operatorId": "op_jt",
+    "departureAt": "2026-11-25T00:00:00.000Z",
+    "arrivalAt": "2026-11-25T01:30:00.000Z",
+    "price": 850000,
+    "totalSeats": 80,
+    "bookedSeats": 8
+  },
+  {
+    "id": "s_0043",
+    "routeId": "r_jkt_sby",
+    "operatorId": "op_ga",
+    "departureAt": "2026-11-25T06:00:00.000Z",
+    "arrivalAt": "2026-11-25T07:30:00.000Z",
+    "price": 1250000,
+    "totalSeats": 60,
+    "bookedSeats": 3
+  },
+  {
+    "id": "s_0044",
+    "routeId": "r_jkt_yog",
+    "operatorId": "op_kai",
+    "departureAt": "2026-11-25T01:00:00.000Z",
+    "arrivalAt": "2026-11-25T08:00:00.000Z",
+    "price": 450000,
+    "totalSeats": 50,
+    "bookedSeats": 10
+  },
+  {
+    "id": "s_0045",
+    "routeId": "r_jkt_yog",
+    "operatorId": "op_kai",
+    "departureAt": "2026-11-25T13:00:00.000Z",
+    "arrivalAt": "2026-11-25T20:00:00.000Z",
+    "price": 380000,
+    "totalSeats": 50,
+    "bookedSeats": 5
+  },
+  {
+    "id": "s_0046",
+    "routeId": "r_jkt_bdg",
+    "operatorId": "op_sj",
+    "departureAt": "2026-11-24T23:00:00.000Z",
+    "arrivalAt": "2026-11-25T02:00:00.000Z",
+    "price": 120000,
+    "totalSeats": 40,
+    "bookedSeats": 0
+  },
+  {
+    "id": "s_0047",
+    "routeId": "r_jkt_bdg",
+    "operatorId": "op_sj",
+    "departureAt": "2026-11-25T07:00:00.000Z",
+    "arrivalAt": "2026-11-25T10:00:00.000Z",
+    "price": 120000,
+    "totalSeats": 40,
+    "bookedSeats": 7
+  },
+  {
+    "id": "s_0048",
+    "routeId": "r_sby_mks",
+    "operatorId": "op_pelni",
+    "departureAt": "2026-11-25T03:00:00.000Z",
+    "arrivalAt": "2026-11-26T03:00:00.000Z",
+    "price": 650000,
+    "totalSeats": 200,
+    "bookedSeats": 2
+  },
+  {
+    "id": "s_0049",
+    "routeId": "r_jkt_dps",
+    "operatorId": "op_ga",
+    "departureAt": "2026-11-25T23:00:00.000Z",
+    "arrivalAt": "2026-11-26T00:50:00.000Z",
+    "price": 1450000,
+    "totalSeats": 60,
+    "bookedSeats": 0
+  },
+  {
+    "id": "s_0050",
+    "routeId": "r_jkt_dps",
+    "operatorId": "op_jt",
+    "departureAt": "2026-11-26T02:30:00.000Z",
+    "arrivalAt": "2026-11-26T04:20:00.000Z",
+    "price": 980000,
+    "totalSeats": 80,
+    "bookedSeats": 7
+  },
+  {
+    "id": "s_0051",
+    "routeId": "r_jkt_dps",
+    "operatorId": "op_ga",
+    "departureAt": "2026-11-26T08:15:00.000Z",
+    "arrivalAt": "2026-11-26T10:05:00.000Z",
+    "price": 1550000,
+    "totalSeats": 60,
+    "bookedSeats": 2
+  },
+  {
+    "id": "s_0052",
+    "routeId": "r_dps_jkt",
+    "operatorId": "op_ga",
+    "departureAt": "2026-11-26T01:00:00.000Z",
+    "arrivalAt": "2026-11-26T02:50:00.000Z",
+    "price": 1400000,
+    "totalSeats": 60,
+    "bookedSeats": 9
+  },
+  {
+    "id": "s_0053",
+    "routeId": "r_dps_jkt",
+    "operatorId": "op_jt",
+    "departureAt": "2026-11-26T11:00:00.000Z",
+    "arrivalAt": "2026-11-26T12:50:00.000Z",
+    "price": 950000,
+    "totalSeats": 80,
+    "bookedSeats": 4
+  },
+  {
+    "id": "s_0054",
+    "routeId": "r_jkt_sby",
+    "operatorId": "op_jt",
+    "departureAt": "2026-11-26T00:00:00.000Z",
+    "arrivalAt": "2026-11-26T01:30:00.000Z",
+    "price": 850000,
+    "totalSeats": 80,
+    "bookedSeats": 11
+  },
+  {
+    "id": "s_0055",
+    "routeId": "r_jkt_sby",
+    "operatorId": "op_ga",
+    "departureAt": "2026-11-26T06:00:00.000Z",
+    "arrivalAt": "2026-11-26T07:30:00.000Z",
+    "price": 1250000,
+    "totalSeats": 60,
+    "bookedSeats": 6
+  },
+  {
+    "id": "s_0056",
+    "routeId": "r_jkt_yog",
+    "operatorId": "op_kai",
+    "departureAt": "2026-11-26T01:00:00.000Z",
+    "arrivalAt": "2026-11-26T08:00:00.000Z",
+    "price": 450000,
+    "totalSeats": 50,
+    "bookedSeats": 1
+  },
+  {
+    "id": "s_0057",
+    "routeId": "r_jkt_yog",
+    "operatorId": "op_kai",
+    "departureAt": "2026-11-26T13:00:00.000Z",
+    "arrivalAt": "2026-11-26T20:00:00.000Z",
+    "price": 380000,
+    "totalSeats": 50,
+    "bookedSeats": 8
+  },
+  {
+    "id": "s_0058",
+    "routeId": "r_jkt_bdg",
+    "operatorId": "op_sj",
+    "departureAt": "2026-11-25T23:00:00.000Z",
+    "arrivalAt": "2026-11-26T02:00:00.000Z",
+    "price": 120000,
+    "totalSeats": 40,
+    "bookedSeats": 3
+  },
+  {
+    "id": "s_0059",
+    "routeId": "r_jkt_bdg",
+    "operatorId": "op_sj",
+    "departureAt": "2026-11-26T07:00:00.000Z",
+    "arrivalAt": "2026-11-26T10:00:00.000Z",
+    "price": 120000,
+    "totalSeats": 40,
+    "bookedSeats": 10
+  },
+  {
+    "id": "s_0060",
+    "routeId": "r_sby_mks",
+    "operatorId": "op_pelni",
+    "departureAt": "2026-11-26T03:00:00.000Z",
+    "arrivalAt": "2026-11-27T03:00:00.000Z",
+    "price": 650000,
+    "totalSeats": 200,
+    "bookedSeats": 5
+  },
+  {
+    "id": "s_0061",
+    "routeId": "r_jkt_dps",
+    "operatorId": "op_ga",
+    "departureAt": "2026-11-26T23:00:00.000Z",
+    "arrivalAt": "2026-11-27T00:50:00.000Z",
+    "price": 1450000,
+    "totalSeats": 60,
+    "bookedSeats": 3
+  },
+  {
+    "id": "s_0062",
+    "routeId": "r_jkt_dps",
+    "operatorId": "op_jt",
+    "departureAt": "2026-11-27T02:30:00.000Z",
+    "arrivalAt": "2026-11-27T04:20:00.000Z",
+    "price": 980000,
+    "totalSeats": 80,
+    "bookedSeats": 10
+  },
+  {
+    "id": "s_0063",
+    "routeId": "r_jkt_dps",
+    "operatorId": "op_ga",
+    "departureAt": "2026-11-27T08:15:00.000Z",
+    "arrivalAt": "2026-11-27T10:05:00.000Z",
+    "price": 1550000,
+    "totalSeats": 60,
+    "bookedSeats": 5
+  },
+  {
+    "id": "s_0064",
+    "routeId": "r_dps_jkt",
+    "operatorId": "op_ga",
+    "departureAt": "2026-11-27T01:00:00.000Z",
+    "arrivalAt": "2026-11-27T02:50:00.000Z",
+    "price": 1400000,
+    "totalSeats": 60,
+    "bookedSeats": 0
+  },
+  {
+    "id": "s_0065",
+    "routeId": "r_dps_jkt",
+    "operatorId": "op_jt",
+    "departureAt": "2026-11-27T11:00:00.000Z",
+    "arrivalAt": "2026-11-27T12:50:00.000Z",
+    "price": 950000,
+    "totalSeats": 80,
+    "bookedSeats": 7
+  },
+  {
+    "id": "s_0066",
+    "routeId": "r_jkt_sby",
+    "operatorId": "op_jt",
+    "departureAt": "2026-11-27T00:00:00.000Z",
+    "arrivalAt": "2026-11-27T01:30:00.000Z",
+    "price": 850000,
+    "totalSeats": 80,
+    "bookedSeats": 2
+  },
+  {
+    "id": "s_0067",
+    "routeId": "r_jkt_sby",
+    "operatorId": "op_ga",
+    "departureAt": "2026-11-27T06:00:00.000Z",
+    "arrivalAt": "2026-11-27T07:30:00.000Z",
+    "price": 1250000,
+    "totalSeats": 60,
+    "bookedSeats": 9
+  },
+  {
+    "id": "s_0068",
+    "routeId": "r_jkt_yog",
+    "operatorId": "op_kai",
+    "departureAt": "2026-11-27T01:00:00.000Z",
+    "arrivalAt": "2026-11-27T08:00:00.000Z",
+    "price": 450000,
+    "totalSeats": 50,
+    "bookedSeats": 4
+  },
+  {
+    "id": "s_0069",
+    "routeId": "r_jkt_yog",
+    "operatorId": "op_kai",
+    "departureAt": "2026-11-27T13:00:00.000Z",
+    "arrivalAt": "2026-11-27T20:00:00.000Z",
+    "price": 380000,
+    "totalSeats": 50,
+    "bookedSeats": 11
+  },
+  {
+    "id": "s_0070",
+    "routeId": "r_jkt_bdg",
+    "operatorId": "op_sj",
+    "departureAt": "2026-11-26T23:00:00.000Z",
+    "arrivalAt": "2026-11-27T02:00:00.000Z",
+    "price": 120000,
+    "totalSeats": 40,
+    "bookedSeats": 6
+  },
+  {
+    "id": "s_0071",
+    "routeId": "r_jkt_bdg",
+    "operatorId": "op_sj",
+    "departureAt": "2026-11-27T07:00:00.000Z",
+    "arrivalAt": "2026-11-27T10:00:00.000Z",
+    "price": 120000,
+    "totalSeats": 40,
+    "bookedSeats": 1
+  },
+  {
+    "id": "s_0072",
+    "routeId": "r_sby_mks",
+    "operatorId": "op_pelni",
+    "departureAt": "2026-11-27T03:00:00.000Z",
+    "arrivalAt": "2026-11-28T03:00:00.000Z",
+    "price": 650000,
+    "totalSeats": 200,
+    "bookedSeats": 8
+  },
+  {
+    "id": "s_0073",
+    "routeId": "r_jkt_dps",
+    "operatorId": "op_ga",
+    "departureAt": "2026-11-27T23:00:00.000Z",
+    "arrivalAt": "2026-11-28T00:50:00.000Z",
+    "price": 1450000,
+    "totalSeats": 60,
+    "bookedSeats": 6
+  },
+  {
+    "id": "s_0074",
+    "routeId": "r_jkt_dps",
+    "operatorId": "op_jt",
+    "departureAt": "2026-11-28T02:30:00.000Z",
+    "arrivalAt": "2026-11-28T04:20:00.000Z",
+    "price": 980000,
+    "totalSeats": 80,
+    "bookedSeats": 1
+  },
+  {
+    "id": "s_0075",
+    "routeId": "r_jkt_dps",
+    "operatorId": "op_ga",
+    "departureAt": "2026-11-28T08:15:00.000Z",
+    "arrivalAt": "2026-11-28T10:05:00.000Z",
+    "price": 1550000,
+    "totalSeats": 60,
+    "bookedSeats": 8
+  },
+  {
+    "id": "s_0076",
+    "routeId": "r_dps_jkt",
+    "operatorId": "op_ga",
+    "departureAt": "2026-11-28T01:00:00.000Z",
+    "arrivalAt": "2026-11-28T02:50:00.000Z",
+    "price": 1400000,
+    "totalSeats": 60,
+    "bookedSeats": 3
+  },
+  {
+    "id": "s_0077",
+    "routeId": "r_dps_jkt",
+    "operatorId": "op_jt",
+    "departureAt": "2026-11-28T11:00:00.000Z",
+    "arrivalAt": "2026-11-28T12:50:00.000Z",
+    "price": 950000,
+    "totalSeats": 80,
+    "bookedSeats": 10
+  },
+  {
+    "id": "s_0078",
+    "routeId": "r_jkt_sby",
+    "operatorId": "op_jt",
+    "departureAt": "2026-11-28T00:00:00.000Z",
+    "arrivalAt": "2026-11-28T01:30:00.000Z",
+    "price": 850000,
+    "totalSeats": 80,
+    "bookedSeats": 5
+  },
+  {
+    "id": "s_0079",
+    "routeId": "r_jkt_sby",
+    "operatorId": "op_ga",
+    "departureAt": "2026-11-28T06:00:00.000Z",
+    "arrivalAt": "2026-11-28T07:30:00.000Z",
+    "price": 1250000,
+    "totalSeats": 60,
+    "bookedSeats": 0
+  },
+  {
+    "id": "s_0080",
+    "routeId": "r_jkt_yog",
+    "operatorId": "op_kai",
+    "departureAt": "2026-11-28T01:00:00.000Z",
+    "arrivalAt": "2026-11-28T08:00:00.000Z",
+    "price": 450000,
+    "totalSeats": 50,
+    "bookedSeats": 7
+  },
+  {
+    "id": "s_0081",
+    "routeId": "r_jkt_yog",
+    "operatorId": "op_kai",
+    "departureAt": "2026-11-28T13:00:00.000Z",
+    "arrivalAt": "2026-11-28T20:00:00.000Z",
+    "price": 380000,
+    "totalSeats": 50,
+    "bookedSeats": 2
+  },
+  {
+    "id": "s_0082",
+    "routeId": "r_jkt_bdg",
+    "operatorId": "op_sj",
+    "departureAt": "2026-11-27T23:00:00.000Z",
+    "arrivalAt": "2026-11-28T02:00:00.000Z",
+    "price": 120000,
+    "totalSeats": 40,
+    "bookedSeats": 9
+  },
+  {
+    "id": "s_0083",
+    "routeId": "r_jkt_bdg",
+    "operatorId": "op_sj",
+    "departureAt": "2026-11-28T07:00:00.000Z",
+    "arrivalAt": "2026-11-28T10:00:00.000Z",
+    "price": 120000,
+    "totalSeats": 40,
+    "bookedSeats": 4
+  },
+  {
+    "id": "s_0084",
+    "routeId": "r_sby_mks",
+    "operatorId": "op_pelni",
+    "departureAt": "2026-11-28T03:00:00.000Z",
+    "arrivalAt": "2026-11-29T03:00:00.000Z",
+    "price": 650000,
+    "totalSeats": 200,
+    "bookedSeats": 11
+  },
+  {
+    "id": "s_0085",
+    "routeId": "r_jkt_dps",
+    "operatorId": "op_ga",
+    "departureAt": "2026-11-28T23:00:00.000Z",
+    "arrivalAt": "2026-11-29T00:50:00.000Z",
+    "price": 1450000,
+    "totalSeats": 60,
+    "bookedSeats": 9
+  },
+  {
+    "id": "s_0086",
+    "routeId": "r_jkt_dps",
+    "operatorId": "op_jt",
+    "departureAt": "2026-11-29T02:30:00.000Z",
+    "arrivalAt": "2026-11-29T04:20:00.000Z",
+    "price": 980000,
+    "totalSeats": 80,
+    "bookedSeats": 4
+  },
+  {
+    "id": "s_0087",
+    "routeId": "r_jkt_dps",
+    "operatorId": "op_ga",
+    "departureAt": "2026-11-29T08:15:00.000Z",
+    "arrivalAt": "2026-11-29T10:05:00.000Z",
+    "price": 1550000,
+    "totalSeats": 60,
+    "bookedSeats": 11
+  },
+  {
+    "id": "s_0088",
+    "routeId": "r_dps_jkt",
+    "operatorId": "op_ga",
+    "departureAt": "2026-11-29T01:00:00.000Z",
+    "arrivalAt": "2026-11-29T02:50:00.000Z",
+    "price": 1400000,
+    "totalSeats": 60,
+    "bookedSeats": 6
+  },
+  {
+    "id": "s_0089",
+    "routeId": "r_dps_jkt",
+    "operatorId": "op_jt",
+    "departureAt": "2026-11-29T11:00:00.000Z",
+    "arrivalAt": "2026-11-29T12:50:00.000Z",
+    "price": 950000,
+    "totalSeats": 80,
+    "bookedSeats": 1
+  },
+  {
+    "id": "s_0090",
+    "routeId": "r_jkt_sby",
+    "operatorId": "op_jt",
+    "departureAt": "2026-11-29T00:00:00.000Z",
+    "arrivalAt": "2026-11-29T01:30:00.000Z",
+    "price": 850000,
+    "totalSeats": 80,
+    "bookedSeats": 8
+  },
+  {
+    "id": "s_0091",
+    "routeId": "r_jkt_sby",
+    "operatorId": "op_ga",
+    "departureAt": "2026-11-29T06:00:00.000Z",
+    "arrivalAt": "2026-11-29T07:30:00.000Z",
+    "price": 1250000,
+    "totalSeats": 60,
+    "bookedSeats": 3
+  },
+  {
+    "id": "s_0092",
+    "routeId": "r_jkt_yog",
+    "operatorId": "op_kai",
+    "departureAt": "2026-11-29T01:00:00.000Z",
+    "arrivalAt": "2026-11-29T08:00:00.000Z",
+    "price": 450000,
+    "totalSeats": 50,
+    "bookedSeats": 10
+  },
+  {
+    "id": "s_0093",
+    "routeId": "r_jkt_yog",
+    "operatorId": "op_kai",
+    "departureAt": "2026-11-29T13:00:00.000Z",
+    "arrivalAt": "2026-11-29T20:00:00.000Z",
+    "price": 380000,
+    "totalSeats": 50,
+    "bookedSeats": 5
+  },
+  {
+    "id": "s_0094",
+    "routeId": "r_jkt_bdg",
+    "operatorId": "op_sj",
+    "departureAt": "2026-11-28T23:00:00.000Z",
+    "arrivalAt": "2026-11-29T02:00:00.000Z",
+    "price": 120000,
+    "totalSeats": 40,
+    "bookedSeats": 0
+  },
+  {
+    "id": "s_0095",
+    "routeId": "r_jkt_bdg",
+    "operatorId": "op_sj",
+    "departureAt": "2026-11-29T07:00:00.000Z",
+    "arrivalAt": "2026-11-29T10:00:00.000Z",
+    "price": 120000,
+    "totalSeats": 40,
+    "bookedSeats": 7
+  },
+  {
+    "id": "s_0096",
+    "routeId": "r_sby_mks",
+    "operatorId": "op_pelni",
+    "departureAt": "2026-11-29T03:00:00.000Z",
+    "arrivalAt": "2026-11-30T03:00:00.000Z",
+    "price": 650000,
+    "totalSeats": 200,
+    "bookedSeats": 2
+  },
+  {
+    "id": "s_0097",
+    "routeId": "r_jkt_dps",
+    "operatorId": "op_ga",
+    "departureAt": "2026-11-29T23:00:00.000Z",
+    "arrivalAt": "2026-11-30T00:50:00.000Z",
+    "price": 1450000,
+    "totalSeats": 60,
+    "bookedSeats": 0
+  },
+  {
+    "id": "s_0098",
+    "routeId": "r_jkt_dps",
+    "operatorId": "op_jt",
+    "departureAt": "2026-11-30T02:30:00.000Z",
+    "arrivalAt": "2026-11-30T04:20:00.000Z",
+    "price": 980000,
+    "totalSeats": 80,
+    "bookedSeats": 7
+  },
+  {
+    "id": "s_0099",
+    "routeId": "r_jkt_dps",
+    "operatorId": "op_ga",
+    "departureAt": "2026-11-30T08:15:00.000Z",
+    "arrivalAt": "2026-11-30T10:05:00.000Z",
+    "price": 1550000,
+    "totalSeats": 60,
+    "bookedSeats": 2
+  },
+  {
+    "id": "s_0100",
+    "routeId": "r_dps_jkt",
+    "operatorId": "op_ga",
+    "departureAt": "2026-11-30T01:00:00.000Z",
+    "arrivalAt": "2026-11-30T02:50:00.000Z",
+    "price": 1400000,
+    "totalSeats": 60,
+    "bookedSeats": 9
+  },
+  {
+    "id": "s_0101",
+    "routeId": "r_dps_jkt",
+    "operatorId": "op_jt",
+    "departureAt": "2026-11-30T11:00:00.000Z",
+    "arrivalAt": "2026-11-30T12:50:00.000Z",
+    "price": 950000,
+    "totalSeats": 80,
+    "bookedSeats": 4
+  },
+  {
+    "id": "s_0102",
+    "routeId": "r_jkt_sby",
+    "operatorId": "op_jt",
+    "departureAt": "2026-11-30T00:00:00.000Z",
+    "arrivalAt": "2026-11-30T01:30:00.000Z",
+    "price": 850000,
+    "totalSeats": 80,
+    "bookedSeats": 11
+  },
+  {
+    "id": "s_0103",
+    "routeId": "r_jkt_sby",
+    "operatorId": "op_ga",
+    "departureAt": "2026-11-30T06:00:00.000Z",
+    "arrivalAt": "2026-11-30T07:30:00.000Z",
+    "price": 1250000,
+    "totalSeats": 60,
+    "bookedSeats": 6
+  },
+  {
+    "id": "s_0104",
+    "routeId": "r_jkt_yog",
+    "operatorId": "op_kai",
+    "departureAt": "2026-11-30T01:00:00.000Z",
+    "arrivalAt": "2026-11-30T08:00:00.000Z",
+    "price": 450000,
+    "totalSeats": 50,
+    "bookedSeats": 1
+  },
+  {
+    "id": "s_0105",
+    "routeId": "r_jkt_yog",
+    "operatorId": "op_kai",
+    "departureAt": "2026-11-30T13:00:00.000Z",
+    "arrivalAt": "2026-11-30T20:00:00.000Z",
+    "price": 380000,
+    "totalSeats": 50,
+    "bookedSeats": 8
+  },
+  {
+    "id": "s_0106",
+    "routeId": "r_jkt_bdg",
+    "operatorId": "op_sj",
+    "departureAt": "2026-11-29T23:00:00.000Z",
+    "arrivalAt": "2026-11-30T02:00:00.000Z",
+    "price": 120000,
+    "totalSeats": 40,
+    "bookedSeats": 3
+  },
+  {
+    "id": "s_0107",
+    "routeId": "r_jkt_bdg",
+    "operatorId": "op_sj",
+    "departureAt": "2026-11-30T07:00:00.000Z",
+    "arrivalAt": "2026-11-30T10:00:00.000Z",
+    "price": 120000,
+    "totalSeats": 40,
+    "bookedSeats": 10
+  },
+  {
+    "id": "s_0108",
+    "routeId": "r_sby_mks",
+    "operatorId": "op_pelni",
+    "departureAt": "2026-11-30T03:00:00.000Z",
+    "arrivalAt": "2026-12-01T03:00:00.000Z",
+    "price": 650000,
+    "totalSeats": 200,
+    "bookedSeats": 5
+  },
+  {
+    "id": "s_0109",
+    "routeId": "r_jkt_dps",
+    "operatorId": "op_ga",
+    "departureAt": "2026-11-30T23:00:00.000Z",
+    "arrivalAt": "2026-12-01T00:50:00.000Z",
+    "price": 1450000,
+    "totalSeats": 60,
+    "bookedSeats": 3
+  },
+  {
+    "id": "s_0110",
+    "routeId": "r_jkt_dps",
+    "operatorId": "op_jt",
+    "departureAt": "2026-12-01T02:30:00.000Z",
+    "arrivalAt": "2026-12-01T04:20:00.000Z",
+    "price": 980000,
+    "totalSeats": 80,
+    "bookedSeats": 10
+  },
+  {
+    "id": "s_0111",
+    "routeId": "r_jkt_dps",
+    "operatorId": "op_ga",
+    "departureAt": "2026-12-01T08:15:00.000Z",
+    "arrivalAt": "2026-12-01T10:05:00.000Z",
+    "price": 1550000,
+    "totalSeats": 60,
+    "bookedSeats": 5
+  },
+  {
+    "id": "s_0112",
+    "routeId": "r_dps_jkt",
+    "operatorId": "op_ga",
+    "departureAt": "2026-12-01T01:00:00.000Z",
+    "arrivalAt": "2026-12-01T02:50:00.000Z",
+    "price": 1400000,
+    "totalSeats": 60,
+    "bookedSeats": 0
+  },
+  {
+    "id": "s_0113",
+    "routeId": "r_dps_jkt",
+    "operatorId": "op_jt",
+    "departureAt": "2026-12-01T11:00:00.000Z",
+    "arrivalAt": "2026-12-01T12:50:00.000Z",
+    "price": 950000,
+    "totalSeats": 80,
+    "bookedSeats": 7
+  },
+  {
+    "id": "s_0114",
+    "routeId": "r_jkt_sby",
+    "operatorId": "op_jt",
+    "departureAt": "2026-12-01T00:00:00.000Z",
+    "arrivalAt": "2026-12-01T01:30:00.000Z",
+    "price": 850000,
+    "totalSeats": 80,
+    "bookedSeats": 2
+  },
+  {
+    "id": "s_0115",
+    "routeId": "r_jkt_sby",
+    "operatorId": "op_ga",
+    "departureAt": "2026-12-01T06:00:00.000Z",
+    "arrivalAt": "2026-12-01T07:30:00.000Z",
+    "price": 1250000,
+    "totalSeats": 60,
+    "bookedSeats": 9
+  },
+  {
+    "id": "s_0116",
+    "routeId": "r_jkt_yog",
+    "operatorId": "op_kai",
+    "departureAt": "2026-12-01T01:00:00.000Z",
+    "arrivalAt": "2026-12-01T08:00:00.000Z",
+    "price": 450000,
+    "totalSeats": 50,
+    "bookedSeats": 4
+  },
+  {
+    "id": "s_0117",
+    "routeId": "r_jkt_yog",
+    "operatorId": "op_kai",
+    "departureAt": "2026-12-01T13:00:00.000Z",
+    "arrivalAt": "2026-12-01T20:00:00.000Z",
+    "price": 380000,
+    "totalSeats": 50,
+    "bookedSeats": 11
+  },
+  {
+    "id": "s_0118",
+    "routeId": "r_jkt_bdg",
+    "operatorId": "op_sj",
+    "departureAt": "2026-11-30T23:00:00.000Z",
+    "arrivalAt": "2026-12-01T02:00:00.000Z",
+    "price": 120000,
+    "totalSeats": 40,
+    "bookedSeats": 6
+  },
+  {
+    "id": "s_0119",
+    "routeId": "r_jkt_bdg",
+    "operatorId": "op_sj",
+    "departureAt": "2026-12-01T07:00:00.000Z",
+    "arrivalAt": "2026-12-01T10:00:00.000Z",
+    "price": 120000,
+    "totalSeats": 40,
+    "bookedSeats": 1
+  },
+  {
+    "id": "s_0120",
+    "routeId": "r_sby_mks",
+    "operatorId": "op_pelni",
+    "departureAt": "2026-12-01T03:00:00.000Z",
+    "arrivalAt": "2026-12-02T03:00:00.000Z",
+    "price": 650000,
+    "totalSeats": 200,
+    "bookedSeats": 8
+  },
+  {
+    "id": "s_0121",
+    "routeId": "r_jkt_dps",
+    "operatorId": "op_ga",
+    "departureAt": "2026-12-01T23:00:00.000Z",
+    "arrivalAt": "2026-12-02T00:50:00.000Z",
+    "price": 1450000,
+    "totalSeats": 60,
+    "bookedSeats": 6
+  },
+  {
+    "id": "s_0122",
+    "routeId": "r_jkt_dps",
+    "operatorId": "op_jt",
+    "departureAt": "2026-12-02T02:30:00.000Z",
+    "arrivalAt": "2026-12-02T04:20:00.000Z",
+    "price": 980000,
+    "totalSeats": 80,
+    "bookedSeats": 1
+  },
+  {
+    "id": "s_0123",
+    "routeId": "r_jkt_dps",
+    "operatorId": "op_ga",
+    "departureAt": "2026-12-02T08:15:00.000Z",
+    "arrivalAt": "2026-12-02T10:05:00.000Z",
+    "price": 1550000,
+    "totalSeats": 60,
+    "bookedSeats": 8
+  },
+  {
+    "id": "s_0124",
+    "routeId": "r_dps_jkt",
+    "operatorId": "op_ga",
+    "departureAt": "2026-12-02T01:00:00.000Z",
+    "arrivalAt": "2026-12-02T02:50:00.000Z",
+    "price": 1400000,
+    "totalSeats": 60,
+    "bookedSeats": 3
+  },
+  {
+    "id": "s_0125",
+    "routeId": "r_dps_jkt",
+    "operatorId": "op_jt",
+    "departureAt": "2026-12-02T11:00:00.000Z",
+    "arrivalAt": "2026-12-02T12:50:00.000Z",
+    "price": 950000,
+    "totalSeats": 80,
+    "bookedSeats": 10
+  },
+  {
+    "id": "s_0126",
+    "routeId": "r_jkt_sby",
+    "operatorId": "op_jt",
+    "departureAt": "2026-12-02T00:00:00.000Z",
+    "arrivalAt": "2026-12-02T01:30:00.000Z",
+    "price": 850000,
+    "totalSeats": 80,
+    "bookedSeats": 5
+  },
+  {
+    "id": "s_0127",
+    "routeId": "r_jkt_sby",
+    "operatorId": "op_ga",
+    "departureAt": "2026-12-02T06:00:00.000Z",
+    "arrivalAt": "2026-12-02T07:30:00.000Z",
+    "price": 1250000,
+    "totalSeats": 60,
+    "bookedSeats": 0
+  },
+  {
+    "id": "s_0128",
+    "routeId": "r_jkt_yog",
+    "operatorId": "op_kai",
+    "departureAt": "2026-12-02T01:00:00.000Z",
+    "arrivalAt": "2026-12-02T08:00:00.000Z",
+    "price": 450000,
+    "totalSeats": 50,
+    "bookedSeats": 7
+  },
+  {
+    "id": "s_0129",
+    "routeId": "r_jkt_yog",
+    "operatorId": "op_kai",
+    "departureAt": "2026-12-02T13:00:00.000Z",
+    "arrivalAt": "2026-12-02T20:00:00.000Z",
+    "price": 380000,
+    "totalSeats": 50,
+    "bookedSeats": 2
+  },
+  {
+    "id": "s_0130",
+    "routeId": "r_jkt_bdg",
+    "operatorId": "op_sj",
+    "departureAt": "2026-12-01T23:00:00.000Z",
+    "arrivalAt": "2026-12-02T02:00:00.000Z",
+    "price": 120000,
+    "totalSeats": 40,
+    "bookedSeats": 9
+  },
+  {
+    "id": "s_0131",
+    "routeId": "r_jkt_bdg",
+    "operatorId": "op_sj",
+    "departureAt": "2026-12-02T07:00:00.000Z",
+    "arrivalAt": "2026-12-02T10:00:00.000Z",
+    "price": 120000,
+    "totalSeats": 40,
+    "bookedSeats": 4
+  },
+  {
+    "id": "s_0132",
+    "routeId": "r_sby_mks",
+    "operatorId": "op_pelni",
+    "departureAt": "2026-12-02T03:00:00.000Z",
+    "arrivalAt": "2026-12-03T03:00:00.000Z",
+    "price": 650000,
+    "totalSeats": 200,
+    "bookedSeats": 11
+  },
+  {
+    "id": "s_0133",
+    "routeId": "r_jkt_dps",
+    "operatorId": "op_ga",
+    "departureAt": "2026-12-02T23:00:00.000Z",
+    "arrivalAt": "2026-12-03T00:50:00.000Z",
+    "price": 1450000,
+    "totalSeats": 60,
+    "bookedSeats": 9
+  },
+  {
+    "id": "s_0134",
+    "routeId": "r_jkt_dps",
+    "operatorId": "op_jt",
+    "departureAt": "2026-12-03T02:30:00.000Z",
+    "arrivalAt": "2026-12-03T04:20:00.000Z",
+    "price": 980000,
+    "totalSeats": 80,
+    "bookedSeats": 4
+  },
+  {
+    "id": "s_0135",
+    "routeId": "r_jkt_dps",
+    "operatorId": "op_ga",
+    "departureAt": "2026-12-03T08:15:00.000Z",
+    "arrivalAt": "2026-12-03T10:05:00.000Z",
+    "price": 1550000,
+    "totalSeats": 60,
+    "bookedSeats": 11
+  },
+  {
+    "id": "s_0136",
+    "routeId": "r_dps_jkt",
+    "operatorId": "op_ga",
+    "departureAt": "2026-12-03T01:00:00.000Z",
+    "arrivalAt": "2026-12-03T02:50:00.000Z",
+    "price": 1400000,
+    "totalSeats": 60,
+    "bookedSeats": 6
+  },
+  {
+    "id": "s_0137",
+    "routeId": "r_dps_jkt",
+    "operatorId": "op_jt",
+    "departureAt": "2026-12-03T11:00:00.000Z",
+    "arrivalAt": "2026-12-03T12:50:00.000Z",
+    "price": 950000,
+    "totalSeats": 80,
+    "bookedSeats": 1
+  },
+  {
+    "id": "s_0138",
+    "routeId": "r_jkt_sby",
+    "operatorId": "op_jt",
+    "departureAt": "2026-12-03T00:00:00.000Z",
+    "arrivalAt": "2026-12-03T01:30:00.000Z",
+    "price": 850000,
+    "totalSeats": 80,
+    "bookedSeats": 8
+  },
+  {
+    "id": "s_0139",
+    "routeId": "r_jkt_sby",
+    "operatorId": "op_ga",
+    "departureAt": "2026-12-03T06:00:00.000Z",
+    "arrivalAt": "2026-12-03T07:30:00.000Z",
+    "price": 1250000,
+    "totalSeats": 60,
+    "bookedSeats": 3
+  },
+  {
+    "id": "s_0140",
+    "routeId": "r_jkt_yog",
+    "operatorId": "op_kai",
+    "departureAt": "2026-12-03T01:00:00.000Z",
+    "arrivalAt": "2026-12-03T08:00:00.000Z",
+    "price": 450000,
+    "totalSeats": 50,
+    "bookedSeats": 10
+  },
+  {
+    "id": "s_0141",
+    "routeId": "r_jkt_yog",
+    "operatorId": "op_kai",
+    "departureAt": "2026-12-03T13:00:00.000Z",
+    "arrivalAt": "2026-12-03T20:00:00.000Z",
+    "price": 380000,
+    "totalSeats": 50,
+    "bookedSeats": 5
+  },
+  {
+    "id": "s_0142",
+    "routeId": "r_jkt_bdg",
+    "operatorId": "op_sj",
+    "departureAt": "2026-12-02T23:00:00.000Z",
+    "arrivalAt": "2026-12-03T02:00:00.000Z",
+    "price": 120000,
+    "totalSeats": 40,
+    "bookedSeats": 0
+  },
+  {
+    "id": "s_0143",
+    "routeId": "r_jkt_bdg",
+    "operatorId": "op_sj",
+    "departureAt": "2026-12-03T07:00:00.000Z",
+    "arrivalAt": "2026-12-03T10:00:00.000Z",
+    "price": 120000,
+    "totalSeats": 40,
+    "bookedSeats": 7
+  },
+  {
+    "id": "s_0144",
+    "routeId": "r_sby_mks",
+    "operatorId": "op_pelni",
+    "departureAt": "2026-12-03T03:00:00.000Z",
+    "arrivalAt": "2026-12-04T03:00:00.000Z",
+    "price": 650000,
+    "totalSeats": 200,
+    "bookedSeats": 2
+  },
+  {
+    "id": "s_0145",
+    "routeId": "r_jkt_dps",
+    "operatorId": "op_ga",
+    "departureAt": "2026-12-03T23:00:00.000Z",
+    "arrivalAt": "2026-12-04T00:50:00.000Z",
+    "price": 1450000,
+    "totalSeats": 60,
+    "bookedSeats": 0
+  },
+  {
+    "id": "s_0146",
+    "routeId": "r_jkt_dps",
+    "operatorId": "op_jt",
+    "departureAt": "2026-12-04T02:30:00.000Z",
+    "arrivalAt": "2026-12-04T04:20:00.000Z",
+    "price": 980000,
+    "totalSeats": 80,
+    "bookedSeats": 7
+  },
+  {
+    "id": "s_0147",
+    "routeId": "r_jkt_dps",
+    "operatorId": "op_ga",
+    "departureAt": "2026-12-04T08:15:00.000Z",
+    "arrivalAt": "2026-12-04T10:05:00.000Z",
+    "price": 1550000,
+    "totalSeats": 60,
+    "bookedSeats": 2
+  },
+  {
+    "id": "s_0148",
+    "routeId": "r_dps_jkt",
+    "operatorId": "op_ga",
+    "departureAt": "2026-12-04T01:00:00.000Z",
+    "arrivalAt": "2026-12-04T02:50:00.000Z",
+    "price": 1400000,
+    "totalSeats": 60,
+    "bookedSeats": 9
+  },
+  {
+    "id": "s_0149",
+    "routeId": "r_dps_jkt",
+    "operatorId": "op_jt",
+    "departureAt": "2026-12-04T11:00:00.000Z",
+    "arrivalAt": "2026-12-04T12:50:00.000Z",
+    "price": 950000,
+    "totalSeats": 80,
+    "bookedSeats": 4
+  },
+  {
+    "id": "s_0150",
+    "routeId": "r_jkt_sby",
+    "operatorId": "op_jt",
+    "departureAt": "2026-12-04T00:00:00.000Z",
+    "arrivalAt": "2026-12-04T01:30:00.000Z",
+    "price": 850000,
+    "totalSeats": 80,
+    "bookedSeats": 11
+  },
+  {
+    "id": "s_0151",
+    "routeId": "r_jkt_sby",
+    "operatorId": "op_ga",
+    "departureAt": "2026-12-04T06:00:00.000Z",
+    "arrivalAt": "2026-12-04T07:30:00.000Z",
+    "price": 1250000,
+    "totalSeats": 60,
+    "bookedSeats": 6
+  },
+  {
+    "id": "s_0152",
+    "routeId": "r_jkt_yog",
+    "operatorId": "op_kai",
+    "departureAt": "2026-12-04T01:00:00.000Z",
+    "arrivalAt": "2026-12-04T08:00:00.000Z",
+    "price": 450000,
+    "totalSeats": 50,
+    "bookedSeats": 1
+  },
+  {
+    "id": "s_0153",
+    "routeId": "r_jkt_yog",
+    "operatorId": "op_kai",
+    "departureAt": "2026-12-04T13:00:00.000Z",
+    "arrivalAt": "2026-12-04T20:00:00.000Z",
+    "price": 380000,
+    "totalSeats": 50,
+    "bookedSeats": 8
+  },
+  {
+    "id": "s_0154",
+    "routeId": "r_jkt_bdg",
+    "operatorId": "op_sj",
+    "departureAt": "2026-12-03T23:00:00.000Z",
+    "arrivalAt": "2026-12-04T02:00:00.000Z",
+    "price": 120000,
+    "totalSeats": 40,
+    "bookedSeats": 3
+  },
+  {
+    "id": "s_0155",
+    "routeId": "r_jkt_bdg",
+    "operatorId": "op_sj",
+    "departureAt": "2026-12-04T07:00:00.000Z",
+    "arrivalAt": "2026-12-04T10:00:00.000Z",
+    "price": 120000,
+    "totalSeats": 40,
+    "bookedSeats": 10
+  },
+  {
+    "id": "s_0156",
+    "routeId": "r_sby_mks",
+    "operatorId": "op_pelni",
+    "departureAt": "2026-12-04T03:00:00.000Z",
+    "arrivalAt": "2026-12-05T03:00:00.000Z",
+    "price": 650000,
+    "totalSeats": 200,
+    "bookedSeats": 5
+  },
+  {
+    "id": "s_0157",
+    "routeId": "r_jkt_dps",
+    "operatorId": "op_ga",
+    "departureAt": "2026-12-04T23:00:00.000Z",
+    "arrivalAt": "2026-12-05T00:50:00.000Z",
+    "price": 1450000,
+    "totalSeats": 60,
+    "bookedSeats": 3
+  },
+  {
+    "id": "s_0158",
+    "routeId": "r_jkt_dps",
+    "operatorId": "op_jt",
+    "departureAt": "2026-12-05T02:30:00.000Z",
+    "arrivalAt": "2026-12-05T04:20:00.000Z",
+    "price": 980000,
+    "totalSeats": 80,
+    "bookedSeats": 10
+  },
+  {
+    "id": "s_0159",
+    "routeId": "r_jkt_dps",
+    "operatorId": "op_ga",
+    "departureAt": "2026-12-05T08:15:00.000Z",
+    "arrivalAt": "2026-12-05T10:05:00.000Z",
+    "price": 1550000,
+    "totalSeats": 60,
+    "bookedSeats": 5
+  },
+  {
+    "id": "s_0160",
+    "routeId": "r_dps_jkt",
+    "operatorId": "op_ga",
+    "departureAt": "2026-12-05T01:00:00.000Z",
+    "arrivalAt": "2026-12-05T02:50:00.000Z",
+    "price": 1400000,
+    "totalSeats": 60,
+    "bookedSeats": 0
+  },
+  {
+    "id": "s_0161",
+    "routeId": "r_dps_jkt",
+    "operatorId": "op_jt",
+    "departureAt": "2026-12-05T11:00:00.000Z",
+    "arrivalAt": "2026-12-05T12:50:00.000Z",
+    "price": 950000,
+    "totalSeats": 80,
+    "bookedSeats": 7
+  },
+  {
+    "id": "s_0162",
+    "routeId": "r_jkt_sby",
+    "operatorId": "op_jt",
+    "departureAt": "2026-12-05T00:00:00.000Z",
+    "arrivalAt": "2026-12-05T01:30:00.000Z",
+    "price": 850000,
+    "totalSeats": 80,
+    "bookedSeats": 2
+  },
+  {
+    "id": "s_0163",
+    "routeId": "r_jkt_sby",
+    "operatorId": "op_ga",
+    "departureAt": "2026-12-05T06:00:00.000Z",
+    "arrivalAt": "2026-12-05T07:30:00.000Z",
+    "price": 1250000,
+    "totalSeats": 60,
+    "bookedSeats": 9
+  },
+  {
+    "id": "s_0164",
+    "routeId": "r_jkt_yog",
+    "operatorId": "op_kai",
+    "departureAt": "2026-12-05T01:00:00.000Z",
+    "arrivalAt": "2026-12-05T08:00:00.000Z",
+    "price": 450000,
+    "totalSeats": 50,
+    "bookedSeats": 4
+  },
+  {
+    "id": "s_0165",
+    "routeId": "r_jkt_yog",
+    "operatorId": "op_kai",
+    "departureAt": "2026-12-05T13:00:00.000Z",
+    "arrivalAt": "2026-12-05T20:00:00.000Z",
+    "price": 380000,
+    "totalSeats": 50,
+    "bookedSeats": 11
+  },
+  {
+    "id": "s_0166",
+    "routeId": "r_jkt_bdg",
+    "operatorId": "op_sj",
+    "departureAt": "2026-12-04T23:00:00.000Z",
+    "arrivalAt": "2026-12-05T02:00:00.000Z",
+    "price": 120000,
+    "totalSeats": 40,
+    "bookedSeats": 6
+  },
+  {
+    "id": "s_0167",
+    "routeId": "r_jkt_bdg",
+    "operatorId": "op_sj",
+    "departureAt": "2026-12-05T07:00:00.000Z",
+    "arrivalAt": "2026-12-05T10:00:00.000Z",
+    "price": 120000,
+    "totalSeats": 40,
+    "bookedSeats": 1
+  },
+  {
+    "id": "s_0168",
+    "routeId": "r_sby_mks",
+    "operatorId": "op_pelni",
+    "departureAt": "2026-12-05T03:00:00.000Z",
+    "arrivalAt": "2026-12-06T03:00:00.000Z",
+    "price": 650000,
+    "totalSeats": 200,
+    "bookedSeats": 8
+  }
+]

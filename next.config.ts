@@ -1,9 +1,7 @@
 import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
-  /* config options here */
-  cacheComponents: true,
-  partialPrefetching: true,
+  // cacheComponents dinonaktifkan: aplikasi membaca cookie sesi & file JSON di setiap request.
   turbopack: {
     rules: {
       "*.css": {

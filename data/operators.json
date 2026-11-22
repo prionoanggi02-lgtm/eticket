@@ -1,0 +1,32 @@
+[
+  {
+    "id": "op_ga",
+    "name": "Garuda Indonesia",
+    "code": "GA",
+    "type": "FLIGHT"
+  },
+  {
+    "id": "op_jt",
+    "name": "Lion Air",
+    "code": "JT",
+    "type": "FLIGHT"
+  },
+  {
+    "id": "op_kai",
+    "name": "KAI Argo",
+    "code": "KA",
+    "type": "TRAIN"
+  },
+  {
+    "id": "op_sj",
+    "name": "PO Sinar Jaya",
+    "code": "SJ",
+    "type": "BUS"
+  },
+  {
+    "id": "op_pelni",
+    "name": "PELNI",
+    "code": "PN",
+    "type": "SHIP"
+  }
+]

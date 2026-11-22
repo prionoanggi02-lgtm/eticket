@@ -1,0 +1,38 @@
+[
+  {
+    "id": "r_jkt_dps",
+    "origin": "Jakarta",
+    "destination": "Denpasar",
+    "durationMin": 110
+  },
+  {
+    "id": "r_dps_jkt",
+    "origin": "Denpasar",
+    "destination": "Jakarta",
+    "durationMin": 110
+  },
+  {
+    "id": "r_jkt_sby",
+    "origin": "Jakarta",
+    "destination": "Surabaya",
+    "durationMin": 90
+  },
+  {
+    "id": "r_jkt_yog",
+    "origin": "Jakarta",
+    "destination": "Yogyakarta",
+    "durationMin": 420
+  },
+  {
+    "id": "r_jkt_bdg",
+    "origin": "Jakarta",
+    "destination": "Bandung",
+    "durationMin": 180
+  },
+  {
+    "id": "r_sby_mks",
+    "origin": "Surabaya",
+    "destination": "Makassar",
+    "durationMin": 1440
+  }
+]

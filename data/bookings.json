@@ -1,0 +1,35 @@
+[
+  {
+    "id": "b_demo1",
+    "code": "ETKDEMO1",
+    "userId": "u_cust",
+    "scheduleId": "s_0013",
+    "status": "PAID",
+    "totalAmount": 2900000,
+    "contactName": "Budi Santoso",
+    "contactEmail": "budi@mail.com",
+    "contactPhone": "081200000003",
+    "passengers": [
+      {
+        "id": "p_demo1",
+        "fullName": "Budi Santoso",
+        "idNumber": "3171010101900001",
+        "ticketCode": "TKT-DEMO0001",
+        "ticketStatus": "ACTIVE",
+        "checkedInAt": null
+      },
+      {
+        "id": "p_demo2",
+        "fullName": "Siti Aminah",
+        "idNumber": "3171010101920002",
+        "ticketCode": "TKT-DEMO0002",
+        "ticketStatus": "ACTIVE",
+        "checkedInAt": null
+      }
+    ],
+    "expiresAt": "2026-11-22T07:21:11.345Z",
+    "paidAt": "2026-11-22T06:51:11.345Z",
+    "paymentMethod": "QRIS",
+    "createdAt": "2026-11-22T06:51:11.345Z"
+  }
+]

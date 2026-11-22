@@ -1,0 +1,32 @@
+[
+  {
+    "id": "u_admin",
+    "name": "Admin Nusa",
+    "email": "admin@eticket.id",
+    "password": "6ad6ec271e43d60ec127540bf9c9e261:d2b8a8a16886372900e262704d8e3604f7872e0d8fc88b638307e3c42a7ac725e36779f934e1342766cd1d4673fbb6b5af73f14e7e5329a8c01c05d8d40c947d",
+    "phone": "081200000001",
+    "role": "ADMIN",
+    "commissionRate": 0,
+    "createdAt": "2026-11-22T06:51:11.345Z"
+  },
+  {
+    "id": "u_agent",
+    "name": "Agen Mandiri Travel",
+    "email": "agen@eticket.id",
+    "password": "da9a032d14cf9042e7ab6b5b77e4cb93:f406aef8e20c316931468095f342857ad1a1f304abdabeae4efedd9ba43b49762fa788a2018e5ed107e2e387c389d10471583b2b8b92022220b2b8b653970d5f",
+    "phone": "081200000002",
+    "role": "AGENT",
+    "commissionRate": 5,
+    "createdAt": "2026-11-22T06:51:11.345Z"
+  },
+  {
+    "id": "u_cust",
+    "name": "Budi Santoso",
+    "email": "budi@mail.com",
+    "password": "f1a0273abb00e63469bc44d8d51a54d2:5d44b68720ba664f0051ae9456875698d04a8612080cbbd66afc55707c17a50b56c60ffdc6ca51b1e7d907f6a24f24ca82bd3eb2ff3a0937825a139758024e56",
+    "phone": "081200000003",
+    "role": "CUSTOMER",
+    "commissionRate": 0,
+    "createdAt": "2026-11-22T06:51:11.345Z"
+  }
+]
